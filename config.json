@@ -1,11 +1,10 @@
 {
   "_catatan": "FILE INI YANG MENGATUR SEMUA DOMAIN APLIKASI. Edit nilai di bawah lalu commit. Jangan hapus format JSON. Repo harus PUBLIC supaya app bisa baca file ini. App ambil config ini setiap kali dibuka; kalau offline, app pakai config cache terakhir di HP.",
   "_cara_ganti_domain_server": "Kalau server mati/pindah: ganti nilai api_server, ws_chat, dan ws_dashboard di bawah ini jadi domain baru, lalu Commit changes. Buka ulang aplikasi. TANPA BUILD APK ULANG.",
-
   "api_server": "http://panel.pterodactyl.cloud:4916",
-  "ws_chat": "wss://panel.pterodactyl.cloud:4916",
-  "ws_dashboard": "wss://panel.pterodactyl.cloud:4916",
-
+  "tos_server": "http://panel.pterodactyl.cloud:4916",
+  "ws_chat": "ws://panel.pterodactyl.cloud:4916",
+  "ws_dashboard": "ws://panel.pterodactyl.cloud:4916",
   "api_siputzx": "https://api.siputzx.my.id",
   "app_siputzx": "https://app.siputzx.my.id",
   "api_deline": "https://api.deline.web.id",
@@ -15,15 +14,13 @@
   "ip_api": "http://ip-api.com",
   "api_ngl": "https://ngl.link",
   "api_github": "https://api.github.com",
-
   "yt_img": "https://img.youtube.com",
   "yt_watch": "https://www.youtube.com",
-
   "link_telegram_volderaz": "https://t.me/Volderaz",
-  "link_telegram_info": "https://t.me/InfoChDarkness",
-  "link_telegram_nastarz": "https://t.me/aboutnastarz",
-  "link_telegram_ibnuxt": "https://t.me/ibnuxt29",
-  "link_whatsapp_channel": "https://whatsapp.com/channel/0029VbAV7JiJ93wSEs4qVH2e",
-  "link_tiktok": "https://www.tiktok.com/@ibnuxt?_r=1&_t=ZS-94EeU1gmBYf",
-  "link_instagram": "https://www.instagram.com/ibnuxt?igsh=bWQ4OTlkbzdoeTFk"
+  "link_telegram_info": "https://t.me/Volderaz",
+  "link_telegram_nastarz": "https://t.me/Volderaz",
+  "link_telegram_Rasz": "https://t.me/Volderaz",
+  "link_whatsapp_channel": "",
+  "link_tiktok": "",
+  "link_instagram": ""
 }
